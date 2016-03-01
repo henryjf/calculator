@@ -1,0 +1,16 @@
+body {
+	border: 1px solid red;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-family: Arial, sans-serif;
+	background:#dfd4a4;
+}
+#num_one {
+	width: 50px;
+}
+#num_two {
+	width: 50px;
+}
+/*#calculateBtn {
+	
+}*/
