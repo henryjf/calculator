@@ -1,16 +1,25 @@
 body {
-	border: 1px solid red;
+	border: 3px solid brown;
+	padding-top: 20px;
 	padding-left: 20px;
-	padding-bottom: 10px;
+	padding-bottom: 30px;
+	margin: 20px 40px 5px 40px;
 	font-family: Arial, sans-serif;
+	font-size: 24px;
 	background:#dfd4a4;
+	text-align: center;
 }
 #num_one {
-	width: 50px;
+	width: 80px;
+	height: 25px;
+	margin: 10px;
 }
 #num_two {
-	width: 50px;
+	width: 80px;
+	height: 25px;
+	margin: 10px;
 }
-/*#calculateBtn {
+#calculateBtn {
+	font-size: 24px;
 	
-}*/
+}
