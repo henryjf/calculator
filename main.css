@@ -1,24 +1,29 @@
 body {
-	border: 3px solid brown;
-	padding-top: 20px;
-	padding-left: 20px;
-	padding-bottom: 30px;
-	margin: 20px 40px 5px 40px;
+	border: 3px solid #88342b;
+	padding: 20px 20px 40px 20px;
+	margin: 40px 40px 5px 40px;
 	font-family: Arial, sans-serif;
 	font-size: 24px;
 	background:#dfd4a4;
 	text-align: center;
+}
+
+	h3 {
+		color: #3a1612;
+	}
 }
 #num_one {
 	width: 80px;
 	height: 25px;
 	margin: 10px;
 }
+
 #num_two {
 	width: 80px;
 	height: 25px;
 	margin: 10px;
 }
+
 #calculateBtn {
 	font-size: 24px;
 	
