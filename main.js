@@ -1,3 +1,11 @@
+// * When I click the "calculate" button, the values in the
+ // first box should be added, subtracted, multiplied or divided by the value 
+ // in the second box.  You'll need to convert the values to a number 
+ // (think `Number(value)`) in order to process them.
+// * Your output should be injected into the answer element
+
+
+
 //declare var;
 var num1, num2, button, answer;
 
